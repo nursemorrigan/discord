@@ -1,3 +1,13 @@
+}
+
+/* Font */
+.message-content {font-size: 120%}
+.message-content {color: black;}
+.message-content {font-family: scientifica, Serif;}
+.message-content {line-height: 1.5;}
+.user-name {font: bold 16px/30px scientifica, serif;}
+}
+
 /* Background */
 .theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ, .appMount-3VJmYg {
     background:url('https://i.imgur.com/hwseeIN.jpg');
