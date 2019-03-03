@@ -4,6 +4,12 @@
 @import url(https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency.css);
 
 :root {
+	/* Font */
+	.message-content {font-size: 120%}
+	.message-content {color: black;}
+	.message-content {font-family: scientifica;}
+	.message-content {line-height: 1.5;}
+	.user-name {font: bold 16px/30px scientifica;}
 	/* background image URL */
 	--background-image: url('https://i.imgur.com/hwseeIN.jpg') center/cover no-repeat;
 	/* default background image https://i.imgur.com/hwseeIN.jp */
