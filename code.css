@@ -1,9 +1,9 @@
 /* Font */
 .message-content {font-size: 120%}
 .message-content {color: black;}
-.message-content {font-family: scientifica, Serif;}
+.message-content {font-family: scientifica;}
 .message-content {line-height: 1.5;}
-.user-name {font: bold 16px/30px scientifica, serif;}
+.user-name {font: bold 16px/30px scientifica;}
 }
 
 /* Background */
